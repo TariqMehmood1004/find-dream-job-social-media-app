@@ -1,4 +1,4 @@
-# dream_job
+# Dream Job App
 
 A new Flutter project.
 
