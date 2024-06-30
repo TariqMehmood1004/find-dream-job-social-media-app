@@ -11,6 +11,7 @@ class UsersModel {
     this.createdAt,
     this.updatedAt,
     this.rating,
+    this.experience,
   });
 
   int? id;
@@ -24,4 +25,5 @@ class UsersModel {
   String? createdAt;
   String? updatedAt;
   String? rating;
+  String? experience;
 }

@@ -16,6 +16,7 @@ dependencies:
   provider: ^6.1.2
   google_fonts: ^6.2.1
   tabler_icons: ^2.5.0+1
+  tabler: ^1.1.0
 
 dev_dependencies:
   flutter_test:

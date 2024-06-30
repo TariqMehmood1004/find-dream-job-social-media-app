@@ -304,6 +304,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  tabler:
+    dependency: "direct main"
+    description:
+      name: tabler
+      sha256: c660a3d5bf84a390afa09922262155d98852b85194027d2f2b5e43ddd1d545dd
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   tabler_icons:
     dependency: "direct main"
     description:
@@ -352,6 +360,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "14.2.1"
+  wcwidth:
+    dependency: transitive
+    description:
+      name: wcwidth
+      sha256: "4e68ce25701e56647cb305ab6d8c75fce5e5196227bcb6ba6886513ac36474c2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.4"
   web:
     dependency: transitive
     description:
