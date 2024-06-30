@@ -1,0 +1,13 @@
+// lib/colors.dart
+export 'package:flutter/material.dart';
+export 'app.dart';
+export 'package:get/get.dart';
+export 'utils/colors.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:dream_job/widgets/custom_text_form_field.dart';
+export 'package:tabler_icons/tabler_icons.dart';
+export 'package:dream_job/widgets/custom_search_profile.dart';
+export 'package:dream_job/models/users_model.dart';
+export 'package:dream_job/widgets/custom_text_widget.dart';
+export 'services/navigations.dart';
+export 'package:dream_job/screens/specialists_details.dart';
